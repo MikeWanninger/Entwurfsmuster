@@ -1,0 +1,10 @@
+Debug/
+Release/
+Abschlussaufgabe.mk
+Abschlussaufgabe.project
+Abschlussaufgabe.txt
+EntwurfsmusterAbschluss.workspace
+.codelite/
+.tern-port
+.tern-project
+Makefile
